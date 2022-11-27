@@ -18,7 +18,7 @@ Para llevar a cabo la instalación de Ubuntu Server la configuración del servid
 Es recomendable disponer de conexión a Internet para descargar los últimos paquetes que se encuentran en los repositorios oficiales de Ubuntu, de esta forma, tendremos nuestro sistema operativo actualizado a la última versión. Para proceder con la descarga de este sistema operativo tendremos que acceder a la [web oficial de Ubuntu Server](https://ubuntu.com/download/server).
 
 ***
-# Instalacion-Ubuntu-Server-20.04 - en M
+# Instalacion-Ubuntu-Server-20.04 - en Maquina virtual
 
 ## Creación de la máquina virtual ##
 ### Nombre y tipo ###
