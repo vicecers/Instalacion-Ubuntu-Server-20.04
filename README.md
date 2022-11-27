@@ -1,4 +1,4 @@
-# Instalacion-Ubuntu-Server-20.04
+# Instalacion-Ubuntu-Server-20.04 - en PC 
 ## Servidores
 ### Ubuntu Server: Instalación y configuración de este sistema operativo
 ![Texto alternativo](https://www.redeszone.net/app/uploads-redeszone.net/2021/09/servidor_ubuntu_server_destacada.jpg")
