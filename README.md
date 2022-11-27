@@ -118,7 +118,7 @@ Se nos ofrece la opción de *autodescubrir el teclado*, que consiste en ir pulsa
 
 En nuestro caso lo que seleccionaremos es que le especificaremos nosotros el modelo: Español.
 
-![Creación de la MV 14](https://raw.githubusercontent.com/aberlanas/ImplantacionSistemasOperativos/master/Unidad_01/InstalacionUbuntuServer/UbuntuServer_14.PNG)
+![Creación de la MV 14](https://github.com/aberlanas/ASIR-ISO/blob/master/Guias/InstalacionUbuntuServer/UbuntuServer_14.PNG?raw=true)
 
 ![Creación de la MV 15](https://github.com/aberlanas/ASIR-ISO/blob/master/Guias/InstalacionUbuntuServer/UbuntuServer_15.PNG?raw=true)
 
